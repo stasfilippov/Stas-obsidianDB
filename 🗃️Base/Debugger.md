@@ -1,5 +1,5 @@
 202308181901
-Tags: #progr 
+Tags: #progr #basejs 
 
 ---
 ## Функции 

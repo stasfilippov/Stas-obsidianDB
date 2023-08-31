@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bf78d1a822082149",
+        "id": "1441956696f9d583",
         "type": "tabs",
         "children": [
           {
-            "id": "96b81041b26a01b8",
+            "id": "bc49e4c12df9b017",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️Base/Пакетные менеджеры.md",
+                "file": "Inbox/Переменные.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️Base/Пакетные менеджеры.md",
+                "file": "Inbox/Переменные.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️Base/Пакетные менеджеры.md",
+                "file": "Inbox/Переменные.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️Base/Пакетные менеджеры.md"
+                "file": "Inbox/Переменные.md"
               }
             }
           },
@@ -165,34 +165,34 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "d87adbd809a186ca",
+  "active": "bc49e4c12df9b017",
   "lastOpenFiles": [
-    "README.md",
-    "🗃️Base/Работа с информацией.md",
-    "🗃️Base/Emails mail.ru.md",
-    "🗃️Base/WebStorm.md",
-    "🗃️Base/Deploy Create React App.md",
-    "🗃️Base/Export_components.md",
-    "🗃️Base/Git Stash - Unstash.md",
-    "🗃️Base/JSX.md",
-    "🗃️Base/Props.md",
-    "🗃️Base/Styled_components.md",
-    "🗃️Base/Запуск пакетов npm с yarn.md",
-    "🗃️Base/Yarn.md",
+    "Inbox/Без названия.md",
+    "Inbox/Переменные.md",
     "Templates/0_new_note.md",
-    "🗃️Base/00_Программирование.md",
+    "Templates/Человек.md",
+    "🗃️Base/Yarn.md",
+    "🗃️Base/WebStorm.md",
+    "🗃️Base/Styled_components.md",
+    "🗃️Base/Props.md",
+    "🗃️Base/Markdown.md",
+    "🗃️Base/JSX.md",
+    "🗃️Base/Git Stash - Unstash.md",
+    "🗃️Base/Export_components.md",
+    "🗃️Base/Emails mail.ru.md",
+    "🗃️Base/Deploy Create React App.md",
     "🗃️Base/Debugger.md",
     "🗃️Base/Create React App (CRA).md",
-    "🗃️Base/Пакетные менеджеры.md",
-    "Inbox/Пакетные менеджеры.md",
-    "🗃️Base/Компоненты React.md",
-    "🗃️Base/Удаление папки или файла с GitHub.md",
-    "🗃️Base/00_Git.md",
+    "🗃️Base/Console.log.md",
     "🗃️Base/Чек-лист создания проекта.md",
-    "🗃️Base/00_Продуктивность.md",
-    "🗃️Base/00 React.md",
-    "🗃️Base/00 StyledComponents.md",
-    "🗃️Base/Markdown.md",
+    "🗃️Base/Удаление папки или файла с GitHub.md",
+    "🗃️Base/Работа с информацией.md",
+    "🗃️Base/Пакетные менеджеры.md",
+    "🗃️Base/Компоненты React.md",
+    "🗃️Base/Запуск пакетов npm с yarn.md",
+    "🗃️Base/Выражения.md",
+    "README.md",
+    "🗃️Base/00_Программирование.md",
     "Без названия.canvas",
     "Inbox/Readwise",
     "Inbox",
