@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "b05ef48321690799",
+    "type": "split",
+    "children": [
+      {
+        "id": "06abab3e6cca6401",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_Resours/Шаблоны/Шаблон 1.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "435f98b3015ddf54",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3134ae127638de7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fe72f3b25ce9ff7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "59d2c65f1ea9d9ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "глеб",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cac0e91b07318409",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "12d5ccd2fe7d7f6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "38fbf9ae52d6d001",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d87adbd809a186ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Resours/Шаблоны/Шаблон 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9554b8af861d3bc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Resours/Шаблоны/Шаблон 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f96761db1db499aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "45c96ee778fb2dce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Resours/Шаблоны/Шаблон 1.md"
+              }
+            }
+          },
+          {
+            "id": "22061e8d42f9f331",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.1705322265625
+  },
+  "active": "06abab3e6cca6401",
+  "lastOpenFiles": [
+    "_Resours/Шаблоны/Шаблон 1.md",
+    "Обработано/Работа в обсидиан.md",
+    "Обработано/Принципы ведения базы.md",
+    "Обработано/Заголовки.md",
+    "Без названия.md",
+    "2022-06-11.md",
+    "2022-W23.md",
+    "Вторая заметка.md",
+    "Новая заметка.md",
+    "БАЗА ЗНАНИЙ/Здоровье/Гормоны/Как стресс нас убивает.md"
+  ]
+}

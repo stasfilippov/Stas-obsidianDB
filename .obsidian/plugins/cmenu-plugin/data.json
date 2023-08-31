@@ -1,0 +1,80 @@
+{
+  "aestheticStyle": "glass",
+  "menuCommands": [
+    {
+      "id": "cmenu-plugin:editor:insert-embed",
+      "name": "cMenu: Add embed",
+      "icon": "note-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:insert-wikilink",
+      "name": "cMenu: Add internal link",
+      "icon": "bracket-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:insert-tag",
+      "name": "cMenu: Add tag",
+      "icon": "price-tag-glyph"
+    },
+    {
+      "id": "editor:set-heading",
+      "name": "Заголовок",
+      "icon": "heading-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-strikethrough",
+      "name": "cMenu: Toggle strikethrough",
+      "icon": "strikethrough-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-blockquote",
+      "name": "cMenu: Toggle blockquote",
+      "icon": "quote-glyph"
+    },
+    {
+      "id": "file-explorer:reveal-active-file",
+      "name": "Файловый менеджер: Показать текущий файл в файловом менеджере",
+      "icon": "navigate-glyph"
+    },
+    {
+      "id": "workspace:split-vertical",
+      "name": "Разделить по вертикали",
+      "icon": "vertical-split"
+    },
+    {
+      "id": "cmenu-plugin:editor:insert-link",
+      "name": "cMenu: Insert markdown link",
+      "icon": "link-glyph"
+    },
+    {
+      "id": "editor:toggle-bullet-list",
+      "name": "Список",
+      "icon": "bullet-list-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-highlight",
+      "name": "cMenu: Toggle highlight",
+      "icon": "highlight-glyph"
+    },
+    {
+      "id": "insert-current-date",
+      "name": "Шаблоны: Вставить текущую дату",
+      "icon": "calendar-glyph"
+    },
+    {
+      "id": "insert-template",
+      "name": "Шаблоны: Вставить шаблон",
+      "icon": "duplicate-glyph"
+    },
+    {
+      "id": "workspace:export-pdf",
+      "name": "Экспортировать в PDF",
+      "icon": "logo-crystal"
+    }
+  ],
+  "appendMethod": "workspace",
+  "shouldShowMenuOnSelect": false,
+  "cMenuVisibility": true,
+  "cMenuBottomValue": 2,
+  "cMenuNumRows": 18
+}

@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "b05ef48321690799",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf78d1a822082149",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96b81041b26a01b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️Base/Пакетные менеджеры.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "435f98b3015ddf54",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3134ae127638de7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fe72f3b25ce9ff7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59d2c65f1ea9d9ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cac0e91b07318409",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6de433b385eddbd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "right": {
+    "id": "12d5ccd2fe7d7f6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "38fbf9ae52d6d001",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d87adbd809a186ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🗃️Base/Пакетные менеджеры.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9554b8af861d3bc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🗃️Base/Пакетные менеджеры.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f96761db1db499aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "45c96ee778fb2dce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🗃️Base/Пакетные менеджеры.md"
+              }
+            }
+          },
+          {
+            "id": "22061e8d42f9f331",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "random-note:Открыть случайную заметку": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "workspaces:Пространства": false
+    }
+  },
+  "active": "0fe72f3b25ce9ff7",
+  "lastOpenFiles": [
+    "🗃️Base/Работа с информацией.md",
+    "🗃️Base/Emails mail.ru.md",
+    "🗃️Base/WebStorm.md",
+    "🗃️Base/Deploy Create React App.md",
+    "🗃️Base/Export_components.md",
+    "🗃️Base/Git Stash - Unstash.md",
+    "🗃️Base/JSX.md",
+    "🗃️Base/Props.md",
+    "🗃️Base/Styled_components.md",
+    "🗃️Base/Запуск пакетов npm с yarn.md",
+    "🗃️Base/Yarn.md",
+    "Templates/0_new_note.md",
+    "🗃️Base/00_Программирование.md",
+    "🗃️Base/Debugger.md",
+    "🗃️Base/Create React App (CRA).md",
+    "🗃️Base/Пакетные менеджеры.md",
+    "Inbox/Пакетные менеджеры.md",
+    "🗃️Base/Компоненты React.md",
+    "🗃️Base/Удаление папки или файла с GitHub.md",
+    "🗃️Base/00_Git.md",
+    "🗃️Base/Чек-лист создания проекта.md",
+    "🗃️Base/00_Продуктивность.md",
+    "🗃️Base/00 React.md",
+    "🗃️Base/00 StyledComponents.md",
+    "🗃️Base/Markdown.md",
+    "📒Daily/2023-06-13.md",
+    "Без названия.canvas",
+    "Inbox/Readwise",
+    "Inbox",
+    "gitignore.txt",
+    "Новый текстовый документ.txt",
+    "Новая папка"
+  ]
+}
