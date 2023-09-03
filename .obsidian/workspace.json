@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Переменные.md",
-                "mode": "preview",
+                "file": "🗃️Base/Переменные.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Переменные.md",
+                "file": "🗃️Base/Переменные.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Переменные.md",
+                "file": "🗃️Base/Переменные.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Переменные.md"
+                "file": "🗃️Base/Переменные.md"
               }
             }
           },
@@ -165,10 +165,10 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "bc49e4c12df9b017",
+  "active": "0fe72f3b25ce9ff7",
   "lastOpenFiles": [
     "Inbox/Без названия.md",
-    "Inbox/Переменные.md",
+    "🗃️Base/Переменные.md",
     "Templates/0_new_note.md",
     "Templates/Человек.md",
     "🗃️Base/Yarn.md",
