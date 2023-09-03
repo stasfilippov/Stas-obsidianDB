@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1441956696f9d583",
+        "id": "213fe924adf29fb3",
         "type": "tabs",
         "children": [
           {
-            "id": "bc49e4c12df9b017",
+            "id": "68aec13d0ee05075",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️Base/Переменные.md",
+                "file": "🗃️Base/Объект.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️Base/Переменные.md",
+                "file": "🗃️Base/Объект.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️Base/Переменные.md",
+                "file": "🗃️Base/Объект.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️Base/Переменные.md"
+                "file": "🗃️Base/Объект.md"
               }
             }
           },
@@ -165,34 +165,36 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "0fe72f3b25ce9ff7",
+  "active": "68aec13d0ee05075",
   "lastOpenFiles": [
-    "Inbox/Без названия.md",
+    "🗃️Base/Типы данных.md",
+    "🗃️Base/Динамическая типизация.md",
+    "🗃️Base/Объект.md",
     "🗃️Base/Переменные.md",
-    "Templates/0_new_note.md",
-    "Templates/Человек.md",
-    "🗃️Base/Yarn.md",
-    "🗃️Base/WebStorm.md",
-    "🗃️Base/Styled_components.md",
-    "🗃️Base/Props.md",
+    "Files/image.jpg",
+    "🗃️Base/Числа.md",
+    "🗃️Base/Строки.md",
+    "Files/Снимок экрана 2023-04-04 в 07.09.53.png",
     "🗃️Base/Markdown.md",
-    "🗃️Base/JSX.md",
-    "🗃️Base/Git Stash - Unstash.md",
-    "🗃️Base/Export_components.md",
-    "🗃️Base/Emails mail.ru.md",
-    "🗃️Base/Deploy Create React App.md",
-    "🗃️Base/Debugger.md",
     "🗃️Base/Create React App (CRA).md",
     "🗃️Base/Console.log.md",
     "🗃️Base/Чек-лист создания проекта.md",
     "🗃️Base/Удаление папки или файла с GitHub.md",
     "🗃️Base/Работа с информацией.md",
-    "🗃️Base/Пакетные менеджеры.md",
     "🗃️Base/Компоненты React.md",
     "🗃️Base/Запуск пакетов npm с yarn.md",
-    "🗃️Base/Выражения.md",
-    "README.md",
-    "🗃️Base/00_Программирование.md",
+    "🗃️Base/Styled_components.md",
+    "🗃️Base/00 JavaScript.md",
+    "Inbox/Без названия.md",
+    "Templates/0_new_note.md",
+    "Templates/Человек.md",
+    "🗃️Base/Yarn.md",
+    "🗃️Base/WebStorm.md",
+    "🗃️Base/Props.md",
+    "🗃️Base/JSX.md",
+    "🗃️Base/Git Stash - Unstash.md",
+    "🗃️Base/Export_components.md",
+    "🗃️Base/Emails mail.ru.md",
     "Без названия.canvas",
     "Inbox/Readwise",
     "Inbox",
