@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "213fe924adf29fb3",
+        "id": "749bd797dece294a",
         "type": "tabs",
         "children": [
           {
-            "id": "68aec13d0ee05075",
+            "id": "d5e56e119d55e166",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️Base/Объект.md",
-                "mode": "source",
+                "file": "Inbox/JS - анимации 6ba82dc1a3f941fe8bc01272e99ac05a.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️Base/Объект.md",
+                "file": "Inbox/JS - анимации 6ba82dc1a3f941fe8bc01272e99ac05a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️Base/Объект.md",
+                "file": "Inbox/JS - анимации 6ba82dc1a3f941fe8bc01272e99ac05a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️Base/Объект.md"
+                "file": "Inbox/JS - анимации 6ba82dc1a3f941fe8bc01272e99ac05a.md"
               }
             }
           },
@@ -165,36 +165,37 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "68aec13d0ee05075",
+  "active": "d5e56e119d55e166",
   "lastOpenFiles": [
-    "🗃️Base/Типы данных.md",
-    "🗃️Base/Динамическая типизация.md",
-    "🗃️Base/Объект.md",
-    "🗃️Base/Переменные.md",
-    "Files/image.jpg",
+    "Inbox/Async await 462eea41d741454f911495d907ca6ae0.md",
+    "Inbox/AJAX ab2928cbbb5a4addb6f3c430b4c52f9d.md",
+    "Inbox/Циклы 8b633ba854834c8880e122cac0a7eda9.md",
+    "Inbox/Браузерное окружение, спецификации 70898fbdc14b4a55bc78659e1864cc6a.md",
+    "Inbox/Функции 45e703992a3342e1b439064c4b161b7b.md",
+    "Inbox/Типы областей видимости cbf348b7983841a4a3fed60b4e7d1e05.md",
+    "Inbox/СlassList 149336eed2bb47b8a58637b7cb1445d8.md",
+    "Inbox/Состояния и атрибуты и свойства 545be66572c7486a932c4d25916d0c04.md",
+    "Inbox/Псевдомассив 7abc4b2cc8b24924b9f51b58da920791.md",
+    "Inbox/Опциональная цепочка ' ' 6c80022c75a545e1838cdeb55571ea13.md",
+    "Inbox/Оператор нулевого слияния ( ) a8cdb7bac6894df2929a7f595d4f4482.md",
+    "Inbox/Модули d09a1754d21545cea9984444d9289408.md",
+    "Inbox/Классы и прототипы edb680c2930a483d892c5834b6e839ec.md",
+    "Inbox/Деструктуризация 6f492cd278d5449d8fcbf33ec02813e8.md",
+    "Inbox/Всплытие и погружение 875d23286b04478f97177e92b08cd831.md",
     "🗃️Base/Числа.md",
-    "🗃️Base/Строки.md",
-    "Files/Снимок экрана 2023-04-04 в 07.09.53.png",
-    "🗃️Base/Markdown.md",
-    "🗃️Base/Create React App (CRA).md",
-    "🗃️Base/Console.log.md",
-    "🗃️Base/Чек-лист создания проекта.md",
+    "🗃️Base/Объект.md",
+    "🗃️Base/Export_components.md",
+    "🗃️Base/Deploy Create React App.md",
     "🗃️Base/Удаление папки или файла с GitHub.md",
     "🗃️Base/Работа с информацией.md",
-    "🗃️Base/Компоненты React.md",
-    "🗃️Base/Запуск пакетов npm с yarn.md",
-    "🗃️Base/Styled_components.md",
     "🗃️Base/00 JavaScript.md",
-    "Inbox/Без названия.md",
-    "Templates/0_new_note.md",
-    "Templates/Человек.md",
-    "🗃️Base/Yarn.md",
-    "🗃️Base/WebStorm.md",
-    "🗃️Base/Props.md",
-    "🗃️Base/JSX.md",
-    "🗃️Base/Git Stash - Unstash.md",
-    "🗃️Base/Export_components.md",
-    "🗃️Base/Emails mail.ru.md",
+    "🗃️Base/00 StyledComponents.md",
+    "Inbox/Введение в браузерные события e7173cf255e1446aa76ff33730c4a666.md",
+    "Inbox/Функциональные выражения 929a9c0dad06459da99431b6d7149926.md",
+    "Inbox/Условные инструкции 322ed25b55a54d1b89e5c7fb3b904f12.md",
+    "Files/image 1.jpg",
+    "Files/image.jpg",
+    "Files/Снимок экрана 2023-04-04 в 07.09.53.png",
     "Без названия.canvas",
     "Inbox/Readwise",
     "Inbox",
