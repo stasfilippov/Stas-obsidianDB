@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bf78d1a822082149",
+        "id": "2b4bdb670f86aee6",
         "type": "tabs",
         "children": [
           {
-            "id": "96b81041b26a01b8",
+            "id": "83294e154a3630ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️Base/Пакетные менеджеры.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️Base/Пакетные менеджеры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️Base/Пакетные менеджеры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🗃️Base/Пакетные менеджеры.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,8 +156,9 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "0fe72f3b25ce9ff7",
+  "active": "83294e154a3630ff",
   "lastOpenFiles": [
+    "🗃️Base/Пакетные менеджеры.md",
     "🗃️Base/Работа с информацией.md",
     "🗃️Base/Emails mail.ru.md",
     "🗃️Base/WebStorm.md",
@@ -182,7 +174,6 @@
     "🗃️Base/00_Программирование.md",
     "🗃️Base/Debugger.md",
     "🗃️Base/Create React App (CRA).md",
-    "🗃️Base/Пакетные менеджеры.md",
     "Inbox/Пакетные менеджеры.md",
     "🗃️Base/Компоненты React.md",
     "🗃️Base/Удаление папки или файла с GitHub.md",
