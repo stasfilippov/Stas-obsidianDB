@@ -174,10 +174,11 @@ root.render(
 
 ---
 ### Zero-Links
--[[00 StyledComponents]]
+[[00 StyledComponents]]
 [[00 React]]
 [[00_Программирование]]
 
 ---
 ### Links
 [[Props]]
+[[Атрибут .attr]]

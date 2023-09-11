@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "34da6577f593bb70",
+        "id": "edf34fb0519e05d9",
         "type": "tabs",
         "children": [
           {
-            "id": "5b77346b0d43d46c",
+            "id": "b4a8bdedb99af316",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "12d5ccd2fe7d7f6c",
@@ -156,8 +157,17 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "5b77346b0d43d46c",
+  "active": "0fe72f3b25ce9ff7",
   "lastOpenFiles": [
+    "Inbox/HTML.md",
+    "🗃️Base/00_Программирование.md",
+    "🗃️Base/00 React.md",
+    "🗃️Base/00 JavaScript.md",
+    "Inbox/Атрибут .attr.md",
+    "Files/5d6aa070-3a20-4e01-9363-553f1fe408b3_6.png",
+    "🗃️Base/Styled_components.md",
+    "🗃️Base/00 StyledComponents.md",
+    "Inbox/Без названия.md",
     "Inbox/JS - анимации 6ba82dc1a3f941fe8bc01272e99ac05a.md",
     "Inbox/Async await 462eea41d741454f911495d907ca6ae0.md",
     "Inbox/AJAX ab2928cbbb5a4addb6f3c430b4c52f9d.md",
@@ -176,14 +186,6 @@
     "Inbox/Всплытие и погружение 875d23286b04478f97177e92b08cd831.md",
     "🗃️Base/Числа.md",
     "🗃️Base/Объект.md",
-    "🗃️Base/Export_components.md",
-    "🗃️Base/Deploy Create React App.md",
-    "🗃️Base/Удаление папки или файла с GitHub.md",
-    "🗃️Base/Работа с информацией.md",
-    "🗃️Base/00 JavaScript.md",
-    "🗃️Base/00 StyledComponents.md",
-    "Inbox/Введение в браузерные события e7173cf255e1446aa76ff33730c4a666.md",
-    "Inbox/Функциональные выражения 929a9c0dad06459da99431b6d7149926.md",
     "Files/image 1.jpg",
     "Files/image.jpg",
     "Files/Снимок экрана 2023-04-04 в 07.09.53.png",
