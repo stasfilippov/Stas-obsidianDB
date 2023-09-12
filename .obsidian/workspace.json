@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "edf34fb0519e05d9",
+        "id": "120c87df1bbf9b37",
         "type": "tabs",
         "children": [
           {
-            "id": "b4a8bdedb99af316",
+            "id": "c6c4a3dc4f15ec11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Семантика.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/Семантика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/Семантика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/Семантика.md"
+              }
             }
           },
           {
@@ -136,6 +145,16 @@
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "28178381a2759f6a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
@@ -157,8 +176,17 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "0fe72f3b25ce9ff7",
+  "active": "c6c4a3dc4f15ec11",
   "lastOpenFiles": [
+    "Inbox/Семантика.md",
+    "Inbox/00 HTML.md",
+    "Inbox/Форматы изображений.md",
+    "Inbox/Favicon.md",
+    "Inbox/SVG.md",
+    "📒Daily/2023-09-12.md",
+    "SVG/svg-спрайты.md",
+    "Inbox/Подготовка изображений для проекта.md",
+    "SVG",
     "Inbox/HTML.md",
     "🗃️Base/00_Программирование.md",
     "🗃️Base/00 React.md",
@@ -178,14 +206,6 @@
     "Inbox/СlassList 149336eed2bb47b8a58637b7cb1445d8.md",
     "Inbox/Состояния и атрибуты и свойства 545be66572c7486a932c4d25916d0c04.md",
     "Inbox/Псевдомассив 7abc4b2cc8b24924b9f51b58da920791.md",
-    "Inbox/Опциональная цепочка ' ' 6c80022c75a545e1838cdeb55571ea13.md",
-    "Inbox/Оператор нулевого слияния ( ) a8cdb7bac6894df2929a7f595d4f4482.md",
-    "Inbox/Модули d09a1754d21545cea9984444d9289408.md",
-    "Inbox/Классы и прототипы edb680c2930a483d892c5834b6e839ec.md",
-    "Inbox/Деструктуризация 6f492cd278d5449d8fcbf33ec02813e8.md",
-    "Inbox/Всплытие и погружение 875d23286b04478f97177e92b08cd831.md",
-    "🗃️Base/Числа.md",
-    "🗃️Base/Объект.md",
     "Files/image 1.jpg",
     "Files/image.jpg",
     "Files/Снимок экрана 2023-04-04 в 07.09.53.png",
