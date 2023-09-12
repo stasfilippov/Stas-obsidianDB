@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -156,8 +160,20 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "06abab3e6cca6401",
+  "active": "0fe72f3b25ce9ff7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "📒Daily/2023-09-12.md",
+    "Inbox/Форматы изображений.md",
+    "Inbox/Семантика.md",
+    "Inbox/Подготовка изображений для проекта.md",
+    "Inbox/Без названия.md",
+    "Inbox/Атрибут .attr.md",
+    "Inbox/SVG.md",
+    "Inbox/HTML.md",
+    "Inbox/Favicon.md",
+    "Inbox/00 HTML.md",
+    "Files/5d6aa070-3a20-4e01-9363-553f1fe408b3_6.png",
     "_Resours/Шаблоны/Шаблон 1.md",
     "Обработано/Работа в обсидиан.md",
     "Обработано/Принципы ведения базы.md",
