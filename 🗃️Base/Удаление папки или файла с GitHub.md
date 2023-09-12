@@ -13,7 +13,7 @@ git commit -m "remove file1.txt"
 ### Удаление папки 
 - https://www.youtube.com/watch?v=kL7vU3taOyI&t=524s
 - https://stackoverflow.com/questions/6313126/how-do-i-remove-a-directory-from-a-git-repository
-```
+```bash
 git rm -r --cached myFolder
 ```
 

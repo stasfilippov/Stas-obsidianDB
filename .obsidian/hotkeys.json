@@ -167,14 +167,6 @@
       "key": "."
     }
   ],
-  "editor:set-heading": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Numpad2"
-    }
-  ],
   "random-note": [
     {
       "modifiers": [
@@ -205,6 +197,14 @@
         "Alt"
       ],
       "key": "`"
+    }
+  ],
+  "editor:set-heading": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
     }
   ]
 }

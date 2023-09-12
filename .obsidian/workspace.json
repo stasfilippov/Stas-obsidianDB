@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b4bdb670f86aee6",
+        "id": "92aab8500ab70bf4",
         "type": "tabs",
         "children": [
           {
-            "id": "83294e154a3630ff",
+            "id": "06abab3e6cca6401",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,8 +44,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "глеб",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -62,7 +62,7 @@
             }
           },
           {
-            "id": "d6de433b385eddbd",
+            "id": "275dc259fbf55af5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 300
   },
   "right": {
     "id": "12d5ccd2fe7d7f6c",
@@ -92,7 +92,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -141,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 302.1705322265625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,39 +156,17 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "0fe72f3b25ce9ff7",
+  "active": "06abab3e6cca6401",
   "lastOpenFiles": [
-    "🗃️Base/Пакетные менеджеры.md",
-    "🗃️Base/Работа с информацией.md",
-    "🗃️Base/Emails mail.ru.md",
-    "🗃️Base/WebStorm.md",
-    "🗃️Base/Deploy Create React App.md",
-    "🗃️Base/Export_components.md",
-    "🗃️Base/Git Stash - Unstash.md",
-    "🗃️Base/JSX.md",
-    "🗃️Base/Props.md",
-    "🗃️Base/Styled_components.md",
-    "🗃️Base/Запуск пакетов npm с yarn.md",
-    "🗃️Base/Yarn.md",
-    "Templates/0_new_note.md",
-    "🗃️Base/00_Программирование.md",
-    "🗃️Base/Debugger.md",
-    "🗃️Base/Create React App (CRA).md",
-    "Inbox/Пакетные менеджеры.md",
-    "🗃️Base/Компоненты React.md",
-    "🗃️Base/Удаление папки или файла с GitHub.md",
-    "🗃️Base/00_Git.md",
-    "🗃️Base/Чек-лист создания проекта.md",
-    "🗃️Base/00_Продуктивность.md",
-    "🗃️Base/00 React.md",
-    "🗃️Base/00 StyledComponents.md",
-    "🗃️Base/Markdown.md",
-    "📒Daily/2023-06-13.md",
-    "Без названия.canvas",
-    "Inbox/Readwise",
-    "Inbox",
-    "gitignore.txt",
-    "Новый текстовый документ.txt",
-    "Новая папка"
+    "_Resours/Шаблоны/Шаблон 1.md",
+    "Обработано/Работа в обсидиан.md",
+    "Обработано/Принципы ведения базы.md",
+    "Обработано/Заголовки.md",
+    "Без названия.md",
+    "2022-06-11.md",
+    "2022-W23.md",
+    "Вторая заметка.md",
+    "Новая заметка.md",
+    "БАЗА ЗНАНИЙ/Здоровье/Гормоны/Как стресс нас убивает.md"
   ]
 }
