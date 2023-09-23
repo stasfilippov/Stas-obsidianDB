@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️Base/Emails mail.ru.md",
+                "file": "Inbox/Атрибут .attr.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mail",
+                "query": "метод",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️Base/Emails mail.ru.md",
+                "file": "Inbox/Атрибут .attr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️Base/Emails mail.ru.md",
+                "file": "Inbox/Атрибут .attr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️Base/Emails mail.ru.md"
+                "file": "Inbox/Атрибут .attr.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "b0f4d225f48476b8",
   "lastOpenFiles": [
+    "🗃️Base/Emails mail.ru.md",
     "🗃️Base/Props.md",
     "🗃️Base/Styled_components.md",
     "🗃️Base/00 StyledComponents.md",
@@ -203,7 +204,6 @@
     "Без названия.md",
     "2022-06-11.md",
     "2022-W23.md",
-    "Вторая заметка.md",
-    "Новая заметка.md"
+    "Вторая заметка.md"
   ]
 }
