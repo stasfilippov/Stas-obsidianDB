@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "330064d1115eb58e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️Base/Styled_components.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "метод",
+                "query": "styled",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Атрибут .attr.md",
+                "file": "🗃️Base/Styled_components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Атрибут .attr.md",
+                "file": "🗃️Base/Styled_components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Атрибут .attr.md"
+                "file": "🗃️Base/Styled_components.md"
               }
             }
           },
@@ -176,7 +190,7 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "b0f4d225f48476b8",
+  "active": "330064d1115eb58e",
   "lastOpenFiles": [
     "🗃️Base/Emails mail.ru.md",
     "🗃️Base/Props.md",
