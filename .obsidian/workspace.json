@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Семантика.md",
+                "file": "📒Daily/2023-10-09.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Семантика.md",
+                "file": "📒Daily/2023-10-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Семантика.md",
+                "file": "📒Daily/2023-10-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Семантика.md"
+                "file": "📒Daily/2023-10-09.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   "active": "c6c4a3dc4f15ec11",
   "lastOpenFiles": [
     "Inbox/Семантика.md",
+    "📒Daily/2023-10-09.md",
     "Inbox/00 HTML.md",
     "Inbox/Форматы изображений.md",
     "Inbox/Favicon.md",
@@ -205,7 +206,6 @@
     "Inbox/Типы областей видимости cbf348b7983841a4a3fed60b4e7d1e05.md",
     "Inbox/СlassList 149336eed2bb47b8a58637b7cb1445d8.md",
     "Inbox/Состояния и атрибуты и свойства 545be66572c7486a932c4d25916d0c04.md",
-    "Inbox/Псевдомассив 7abc4b2cc8b24924b9f51b58da920791.md",
     "Files/image 1.jpg",
     "Files/image.jpg",
     "Files/Снимок экрана 2023-04-04 в 07.09.53.png",
