@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ec193202b68e8f89",
+        "id": "954b7d74441dab4e",
         "type": "tabs",
         "children": [
           {
-            "id": "6a7a2f9a11d28c04",
+            "id": "fe813098d3584358",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📒Daily/2023-10-10.md",
+                "file": "📒Daily/2023-10-14.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📒Daily/2023-10-10.md",
+                "file": "📒Daily/2023-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📒Daily/2023-10-10.md",
+                "file": "📒Daily/2023-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📒Daily/2023-10-10.md"
+                "file": "📒Daily/2023-10-14.md"
               }
             }
           },
@@ -175,8 +175,9 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "6a7a2f9a11d28c04",
+  "active": "fe813098d3584358",
   "lastOpenFiles": [
+    "📒Daily/2023-10-14.md",
     "📒Daily/2023-10-10.md",
     "Inbox/Без названия 1.md",
     "Без названия",
@@ -203,7 +204,6 @@
     "_Resours/Шаблоны/Шаблон 1.md",
     "Обработано/Работа в обсидиан.md",
     "Обработано/Принципы ведения базы.md",
-    "Обработано/Заголовки.md",
-    "Без названия.md"
+    "Обработано/Заголовки.md"
   ]
 }
