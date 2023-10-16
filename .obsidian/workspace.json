@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📒Daily/2023-10-14.md",
+                "file": "📒Daily/2023-10-16.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📒Daily/2023-10-14.md",
+                "file": "📒Daily/2023-10-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📒Daily/2023-10-14.md",
+                "file": "📒Daily/2023-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📒Daily/2023-10-14.md"
+                "file": "📒Daily/2023-10-16.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   "active": "fe813098d3584358",
   "lastOpenFiles": [
     "📒Daily/2023-10-14.md",
+    "📒Daily/2023-10-16.md",
     "📒Daily/2023-10-10.md",
     "Inbox/Без названия 1.md",
     "Без названия",
@@ -203,7 +204,6 @@
     "Files/5d6aa070-3a20-4e01-9363-553f1fe408b3_6.png",
     "_Resours/Шаблоны/Шаблон 1.md",
     "Обработано/Работа в обсидиан.md",
-    "Обработано/Принципы ведения базы.md",
-    "Обработано/Заголовки.md"
+    "Обработано/Принципы ведения базы.md"
   ]
 }
