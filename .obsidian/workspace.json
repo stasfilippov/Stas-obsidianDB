@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9ab8d95bf63db479",
+        "id": "5ddc3ec919c052c2",
         "type": "tabs",
         "children": [
           {
-            "id": "561f2b0809762b05",
+            "id": "ecd9b3c015f1d9b9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,15 +166,23 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "561f2b0809762b05",
+  "active": "ecd9b3c015f1d9b9",
   "lastOpenFiles": [
+    "📒Daily/2023-06-13.md",
     "📒Daily/2023-10-09.md",
+    "📒Daily/2023-06-11.md",
+    "📒Daily/2023-06-12.md",
+    "📒Daily/2023-09-12.md",
+    "📒Daily/2023-07-07.md",
+    "Files/Снимок экрана 2023-04-04 в 07.09.53.png",
+    "Files/image 1.jpg",
+    "Files/image.jpg",
+    "Files/5d6aa070-3a20-4e01-9363-553f1fe408b3_6.png",
     "Inbox/Семантика.md",
     "Inbox/00 HTML.md",
     "Inbox/Форматы изображений.md",
     "Inbox/Favicon.md",
     "Inbox/SVG.md",
-    "📒Daily/2023-09-12.md",
     "SVG/svg-спрайты.md",
     "Inbox/Подготовка изображений для проекта.md",
     "SVG",
@@ -183,7 +191,6 @@
     "🗃️Base/00 React.md",
     "🗃️Base/00 JavaScript.md",
     "Inbox/Атрибут .attr.md",
-    "Files/5d6aa070-3a20-4e01-9363-553f1fe408b3_6.png",
     "🗃️Base/Styled_components.md",
     "🗃️Base/00 StyledComponents.md",
     "Inbox/Без названия.md",
@@ -192,13 +199,6 @@
     "Inbox/AJAX ab2928cbbb5a4addb6f3c430b4c52f9d.md",
     "Inbox/Циклы 8b633ba854834c8880e122cac0a7eda9.md",
     "Inbox/Браузерное окружение, спецификации 70898fbdc14b4a55bc78659e1864cc6a.md",
-    "Inbox/Функции 45e703992a3342e1b439064c4b161b7b.md",
-    "Inbox/Типы областей видимости cbf348b7983841a4a3fed60b4e7d1e05.md",
-    "Inbox/СlassList 149336eed2bb47b8a58637b7cb1445d8.md",
-    "Inbox/Состояния и атрибуты и свойства 545be66572c7486a932c4d25916d0c04.md",
-    "Files/image 1.jpg",
-    "Files/image.jpg",
-    "Files/Снимок экрана 2023-04-04 в 07.09.53.png",
     "Без названия.canvas",
     "Inbox/Readwise",
     "Inbox",
