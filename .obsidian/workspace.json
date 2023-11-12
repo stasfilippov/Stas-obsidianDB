@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "dc6719a696f1242a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,8 +177,11 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "ecd9b3c015f1d9b9",
+  "active": "dc6719a696f1242a",
   "lastOpenFiles": [
+    "Readwise/Articles/Your First Component – React.md",
+    "Readwise/Articles",
+    "Readwise",
     "📒Daily/2023-06-13.md",
     "📒Daily/2023-10-09.md",
     "📒Daily/2023-06-11.md",
@@ -198,7 +212,6 @@
     "Inbox/Async await 462eea41d741454f911495d907ca6ae0.md",
     "Inbox/AJAX ab2928cbbb5a4addb6f3c430b4c52f9d.md",
     "Inbox/Циклы 8b633ba854834c8880e122cac0a7eda9.md",
-    "Inbox/Браузерное окружение, спецификации 70898fbdc14b4a55bc78659e1864cc6a.md",
     "Без названия.canvas",
     "Inbox/Readwise",
     "Inbox",

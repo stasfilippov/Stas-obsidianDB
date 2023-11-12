@@ -4,11 +4,13 @@
   "frequency": "0",
   "triggerOnLoad": true,
   "isSyncing": false,
-  "lastSyncFailed": true,
-  "lastSavedStatusID": 9448630,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 11313896,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
-  "booksIDsMap": {},
+  "booksIDsMap": {
+    "Readwise/Articles/Your First Component – React.md": "34068806"
+  },
   "reimportShowConfirmation": true
 }
