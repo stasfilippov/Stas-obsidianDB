@@ -11,8 +11,13 @@
             "id": "88fe39a0f328bfe2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "📒Daily/2023-11-14.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "12d5ccd2fe7d7f6c",
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📒Daily/2023-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📒Daily/2023-11-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📒Daily/2023-11-14.md"
+              }
             }
           },
           {
@@ -169,6 +179,7 @@
   },
   "active": "88fe39a0f328bfe2",
   "lastOpenFiles": [
+    "📒Daily/2023-11-14.md",
     "Inbox/React-router-dom 6.md",
     "Readwise/Articles/Your First Component – React.md",
     "Readwise/Articles",
@@ -201,7 +212,6 @@
     "Inbox/Без названия.md",
     "Inbox/JS - анимации 6ba82dc1a3f941fe8bc01272e99ac05a.md",
     "Inbox/Async await 462eea41d741454f911495d907ca6ae0.md",
-    "Inbox/AJAX ab2928cbbb5a4addb6f3c430b4c52f9d.md",
     "Без названия.canvas",
     "Inbox/Readwise",
     "Inbox",
