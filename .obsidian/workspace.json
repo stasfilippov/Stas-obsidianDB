@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📒Daily/2023-11-14.md",
+                "file": "📒Daily/2023-11-15.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📒Daily/2023-11-14.md",
+                "file": "📒Daily/2023-11-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📒Daily/2023-11-14.md",
+                "file": "📒Daily/2023-11-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📒Daily/2023-11-14.md"
+                "file": "📒Daily/2023-11-15.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   "active": "88fe39a0f328bfe2",
   "lastOpenFiles": [
     "📒Daily/2023-11-14.md",
+    "📒Daily/2023-11-15.md",
     "Inbox/React-router-dom 6.md",
     "Readwise/Articles/Your First Component – React.md",
     "Readwise/Articles",
@@ -211,7 +212,6 @@
     "🗃️Base/00 StyledComponents.md",
     "Inbox/Без названия.md",
     "Inbox/JS - анимации 6ba82dc1a3f941fe8bc01272e99ac05a.md",
-    "Inbox/Async await 462eea41d741454f911495d907ca6ae0.md",
     "Без названия.canvas",
     "Inbox/Readwise",
     "Inbox",
