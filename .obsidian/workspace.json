@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Деструктуризация.md",
+                "file": "🗃️Base/Деструктуризация.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Деструктуризация.md",
+                "file": "🗃️Base/Деструктуризация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Деструктуризация.md",
+                "file": "🗃️Base/Деструктуризация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Деструктуризация.md"
+                "file": "🗃️Base/Деструктуризация.md"
               }
             }
           },
@@ -176,7 +176,7 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "59188b8e27b6bb9e",
+  "active": "0fe72f3b25ce9ff7",
   "lastOpenFiles": [
     "🗃️Base/Дескрипторы, геттеры и сеттеры свойств.md",
     "Templates/0_new_note.md",
