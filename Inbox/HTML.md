@@ -7,7 +7,7 @@ Tags: #progr
 https://developer.mozilla.org/ru/docs/Web/HTML/Attributes
 ---
 ### Zero-Links
-[[00_Программирование]]
+[[00 Программирование]]
 
 ---
 ### Links
