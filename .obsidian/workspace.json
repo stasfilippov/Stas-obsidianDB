@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2bb62ce1f9b9da11",
+        "id": "ee336578c209f6df",
         "type": "tabs",
         "children": [
           {
-            "id": "06abab3e6cca6401",
+            "id": "8eff6614ece37157",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Storybook.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "12d5ccd2fe7d7f6c",
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/Storybook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/Storybook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/Storybook.md"
+              }
             }
           },
           {
@@ -151,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.1705322265625
+    "width": 302.1705322265625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,11 +177,12 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "06abab3e6cca6401",
+  "active": "0fe72f3b25ce9ff7",
   "lastOpenFiles": [
+    "Inbox/Storybook.md",
+    "📒Daily/2023-11-16.md",
     "📒Daily/2023-11-14.md",
     "📒Daily/2023-11-15.md",
-    "📒Daily/2023-11-16.md",
     "conflict-files-obsidian-git.md",
     "_Resours/Шаблоны/Шаблон 1.md",
     "Обработано/Работа в обсидиан.md",
