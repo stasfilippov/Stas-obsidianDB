@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "582d43dbaed33b5f",
+        "id": "72df8bf53f9974fd",
         "type": "tabs",
         "children": [
           {
-            "id": "c9c83ebabf8bfefc",
+            "id": "59188b8e27b6bb9e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Деструктуризация.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/Деструктуризация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/Деструктуризация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/Деструктуризация.md"
+              }
             }
           },
           {
@@ -147,7 +156,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,35 +176,35 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "c9c83ebabf8bfefc",
+  "active": "59188b8e27b6bb9e",
   "lastOpenFiles": [
+    "🗃️Base/Дескрипторы, геттеры и сеттеры свойств.md",
+    "Templates/0_new_note.md",
+    "🗃️Base/Делегирование событий.md",
+    "🗃️Base/Всплытие и погружение.md",
+    "Inbox/Действия браузера по-умолчанию ee2591793ba441b7a1882d34fbea3efd.md",
+    "🗃️Base/Браузерные события.md",
+    "🗃️Base/Браузерное окружение, спецификации.md",
+    "🗃️Base/Атрибут .attr.md",
+    "📒Daily/2023-11-16.md",
+    "🗃️Base/00 Git.md",
+    "🗃️Base/00 Продуктивность.md",
+    "🗃️Base/00 Программирование.md",
+    "🗃️Base/00 HTML.md",
+    "Inbox/Без названия 1.md",
+    "Inbox/Без названия.md",
+    "README.md",
     "📒Daily/2023-06-11.md",
+    "📒Daily/2023-06-12.md",
     "📒Daily/2023-10-16.md",
     "📒Daily/2023-10-14.md",
     "📒Daily/2023-10-10.md",
-    "Inbox/Без названия 1.md",
     "Без названия",
     "📒Daily/2023-09-12.md",
-    "Inbox/Атрибут .attr.md",
     "🗃️Base/Styled_components.md",
     "🗃️Base/Emails mail.ru.md",
     "🗃️Base/Props.md",
     "🗃️Base/00 StyledComponents.md",
-    "🗃️Base/Компоненты React.md",
-    "🗃️Base/00_Программирование.md",
-    "🗃️Base/00 React.md",
-    "conflict-files-obsidian-git.md",
-    "Inbox/Форматы изображений.md",
-    "Inbox/Семантика.md",
-    "Inbox/Подготовка изображений для проекта.md",
-    "Inbox/Без названия.md",
-    "Inbox/SVG.md",
-    "Inbox/HTML.md",
-    "Inbox/Favicon.md",
-    "Inbox/00 HTML.md",
-    "Files/5d6aa070-3a20-4e01-9363-553f1fe408b3_6.png",
-    "_Resours/Шаблоны/Шаблон 1.md",
-    "Обработано/Работа в обсидиан.md",
-    "Обработано/Принципы ведения базы.md"
+    "Files/5d6aa070-3a20-4e01-9363-553f1fe408b3_6.png"
   ]
 }

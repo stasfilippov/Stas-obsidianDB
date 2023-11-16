@@ -9,7 +9,7 @@ https://classic.yarnpkg.com/lang/en/docs/migrating-from-npm/#toc-cli-commands-co
 
 ---
 ### Zero-Links
-[[00_Программирование]]
+[[00 Программирование]]
 [[00 React]]
 
 ---

@@ -176,7 +176,7 @@ root.render(
 ### Zero-Links
 [[00 StyledComponents]]
 [[00 React]]
-[[00_Программирование]]
+[[00 Программирование]]
 
 ---
 ### Links

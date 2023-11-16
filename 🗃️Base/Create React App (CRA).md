@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=dRu4dVhnTtU&t=64s
 
 ---
 ### Zero-Links
--[[00_Программирование]]
+-[[00 Программирование]]
 [[00 React]]
 
 ---

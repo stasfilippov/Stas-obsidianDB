@@ -7,7 +7,7 @@ https://create-react-app.dev/docs/deployment/#github-pages
 
 ---
 ### Zero-Links
-[[00_Git]]
+[[00 Git]]
 [[00 React]]
 
 ---

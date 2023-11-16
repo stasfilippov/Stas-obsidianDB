@@ -19,7 +19,7 @@ git rm -r --cached myFolder
 
 ---
 ### Zero-Links
--[[00_Git]]
+-[[00 Git]]
 
 ---
 ### Links
