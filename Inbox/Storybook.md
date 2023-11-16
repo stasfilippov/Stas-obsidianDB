@@ -23,6 +23,19 @@ export default meta;
 
 - Обязательно нужно экспортировать одну **story** - какое либо состояние компонента
 
+### Setup Controls
+```ts
+export default meta;
+type Story = StoryObj<typeof Button>;
+
+
+export const Primary: Story = {
+  args: {
+    variant: 'primary',
+  },
+};
+```
+- указываем какие **props** будут приходить в компоненту
 ---
 ### Zero-Links
 [[00 Srorybook]]
