@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3ea86a9fcd206a07",
+        "id": "582d43dbaed33b5f",
         "type": "tabs",
         "children": [
           {
-            "id": "38c5a16f721445ca",
+            "id": "c9c83ebabf8bfefc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📒Daily/2023-06-11.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📒Daily/2023-06-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📒Daily/2023-06-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "📒Daily/2023-06-11.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,15 +166,15 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "38c5a16f721445ca",
+  "active": "c9c83ebabf8bfefc",
   "lastOpenFiles": [
+    "📒Daily/2023-06-11.md",
     "📒Daily/2023-10-16.md",
     "📒Daily/2023-10-14.md",
     "📒Daily/2023-10-10.md",
     "Inbox/Без названия 1.md",
     "Без названия",
     "📒Daily/2023-09-12.md",
-    "📒Daily/2023-06-11.md",
     "Inbox/Атрибут .attr.md",
     "🗃️Base/Styled_components.md",
     "🗃️Base/Emails mail.ru.md",
