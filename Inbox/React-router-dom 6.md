@@ -2,8 +2,18 @@
 Tags: #progr 
 
 ---
-## 
+## Подключение
 
+`yarn add react-router-dom`
+`yarn add @types/react-router-dom`
+
+1.  Подключение в **index.tsx**
+```TS
+<BrowserRouter>  
+  <App />  
+</BrowserRouter>
+```
+2. 
 ### Навигация
 1. **useNavigate()** с помощью хука - возможно передать в **качестве колбека**
 	- - **navigate ( -n )** - может принимать в параметры *число* - возврат на  *n* последних переходов по cтраницам
