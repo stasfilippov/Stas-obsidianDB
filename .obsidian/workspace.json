@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📒Daily/2023-11-18.md",
+                "file": "Inbox/React-router-dom 6.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rou",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +74,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "12d5ccd2fe7d7f6c",
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📒Daily/2023-11-18.md",
+                "file": "Inbox/React-router-dom 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📒Daily/2023-11-18.md",
+                "file": "Inbox/React-router-dom 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📒Daily/2023-11-18.md"
+                "file": "Inbox/React-router-dom 6.md"
               }
             }
           },
@@ -178,8 +180,8 @@
   },
   "active": "3409175ab6f9bd0d",
   "lastOpenFiles": [
-    "Inbox/React-router-dom 6.md",
     "📒Daily/2023-11-18.md",
+    "Inbox/React-router-dom 6.md",
     "Inbox/Storybook.md",
     "Files/Pasted image 20231116234718.png",
     "📒Daily/2023-11-16.md",
