@@ -54,7 +54,9 @@ Tags: #progr
 - использование **Link** вместо NavLink
 	 *Отличие* - NavLink - запоминает на какой страницы мы были и находимся (дает возможность навесить классы)
 	 - если выбираем NavLink - в аттрибутах в className даем **callback**
-	 `className={(isActive) => isActive ? 's.nav ' : 's.navLink'}`
+	 `className={({isActive}) => isActive ? s.active : s.navLink}`
+
+- установить [[Styled_components]]
 ### Навигация
 1. **useNavigate()** с помощью хука - возможно передать в **качестве колбека**
 	- - **navigate ( -n )** - может принимать в параметры *число* - возврат на  *n* последних переходов по cтраницам

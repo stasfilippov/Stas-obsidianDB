@@ -162,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.1705322265625,
-    "collapsed": true
+    "width": 302.1705322265625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +179,9 @@
   },
   "active": "3409175ab6f9bd0d",
   "lastOpenFiles": [
-    "📒Daily/2023-11-18.md",
+    "🗃️Base/Styled_components.md",
     "Inbox/React-router-dom 6.md",
+    "📒Daily/2023-11-18.md",
     "Inbox/Storybook.md",
     "Files/Pasted image 20231116234718.png",
     "📒Daily/2023-11-16.md",
