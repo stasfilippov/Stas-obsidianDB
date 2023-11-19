@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "804223bbe25cc05b",
+        "id": "cbf540687ecef5d6",
         "type": "tabs",
         "children": [
           {
-            "id": "3a7ad8f92b5176f1",
+            "id": "5a8c29a04e1d29bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️Base/Styled_components.md",
+                "file": "Inbox/Иммутабельность.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️Base/Styled_components.md",
+                "file": "Inbox/Иммутабельность.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️Base/Styled_components.md",
+                "file": "Inbox/Иммутабельность.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️Base/Styled_components.md"
+                "file": "Inbox/Иммутабельность.md"
               }
             }
           },
@@ -177,10 +176,12 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "3a7ad8f92b5176f1",
+  "active": "0fe72f3b25ce9ff7",
   "lastOpenFiles": [
-    "🗃️Base/React-router-dom 6.md",
+    "Inbox/Иммутабельность.md",
+    "🗃️Base/Мутация в JS.md",
     "🗃️Base/Styled_components.md",
+    "🗃️Base/React-router-dom 6.md",
     "Inbox/Input-Controlled.md",
     "Files/Pasted image 20231119140321.png",
     "Inbox/FLUX - круговорот.md",
