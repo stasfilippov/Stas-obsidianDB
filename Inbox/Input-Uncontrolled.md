@@ -12,10 +12,11 @@ Tags: #progr
 ![[Pasted image 20231119132608.png]]
 
 2. Через **useRef ()**
-
+![[Pasted image 20231119135056.png]]
 ---
 ### Zero-Links
 [[00 React]]
 
 ---
 ### Links
+[[Input-Controlled]]

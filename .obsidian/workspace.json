@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d2cdb0b1bb12a29",
+            "id": "cbeaa5f0c3f5ffe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Input-Uncontrolled.md",
+                "file": "Inbox/Input-Controlled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Input-Uncontrolled.md",
+                "file": "Inbox/Input-Controlled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Input-Uncontrolled.md",
+                "file": "Inbox/Input-Controlled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Input-Uncontrolled.md"
+                "file": "Inbox/Input-Controlled.md"
               }
             }
           },
@@ -162,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.1705322265625,
-    "collapsed": true
+    "width": 302.1705322265625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,10 +177,15 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "9d2cdb0b1bb12a29",
+  "active": "cbeaa5f0c3f5ffe6",
   "lastOpenFiles": [
-    "Files/Pasted image 20231119132608.png",
+    "Files/Pasted image 20231119140321.png",
+    "Inbox/FLUX - круговорот.md",
+    "Inbox/Input-Controlled.md",
+    "Files/Pasted image 20231119140220.png",
     "Inbox/Input-Uncontrolled.md",
+    "Files/Pasted image 20231119135056.png",
+    "Files/Pasted image 20231119132608.png",
     "🗃️Base/React-router-dom 6.md",
     "🗃️Base/Styled_components.md",
     "📒Daily/2023-11-18.md",
