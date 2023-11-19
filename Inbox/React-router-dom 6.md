@@ -54,8 +54,13 @@ Tags: #progr
 - Создание файла tsx **dataState**
 - Создание одной страницы с методом **map**
 	- то есть будет страница с адресом `/path` и в ней множество подстраниц с индексами `/path/index`
-- Создание Route
+- Создание **Route**
 `<Route path={'/page/:id'} element={<Page/>}/>`
+- Передача в **props** компоненты Pages
+`<Route path={'/page/:id'} element={<Page pages={dataState.pages}/>}/>`
+- Использование хука **useParams ()**
+`const params = useParams()`
+
 ---
 ### БИЖУТЕРИЯ
 - использование **Link** вместо NavLink
