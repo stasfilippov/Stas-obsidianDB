@@ -65,9 +65,29 @@ Tags: #progr
 {pages[Number(params.id)].heading}  
 {pages[Number(params.id)].about}
 ```
-- Использование хука useLocation
+- Использование хука useLocation - можно использовать для отображения контента характерного только для определенной страницы
 ```JS
 const locate = useLocation()
+
+
+{locate.pathname === '/page/0' && <div>secret text</div>}
+```
+
+8. Работа со **страницей 404**
+- Добавление двух Route 
+```JS
+<Route path={'/page/error'} element={<Error404/>}/>  
+<Route path={'/*'} element={<Navigate to={'/page/error'}/>}/>
+```
+- При отображения страниц через map - проверка на правильный id (реализация через хук useParams)
+```JS
+pages[Number(params.id)]  
+    ? <div>  
+       {locate.pathname === '/page/0' && <div>secret text</div>}  
+       {pages[Number(params.id)].heading}  
+       {pages[Number(params.id)].about}  
+    </div>  
+    : <Navigate to={'/page/error'}/>
 ```
 
 ---
