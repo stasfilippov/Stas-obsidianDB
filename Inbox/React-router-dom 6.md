@@ -61,11 +61,14 @@ Tags: #progr
 - Использование хука **useParams ()** в компоненте Page
 `const params = useParams()`
 - Отрисовка контента с помощью map 
-```
+```JS
 {pages[Number(params.id)].heading}  
 {pages[Number(params.id)].about}
 ```
-
+- Использование хука useLocation
+```JS
+const locate = useLocation()
+```
 
 ---
 ### БИЖУТЕРИЯ
@@ -76,7 +79,6 @@ Tags: #progr
 
 - установить [[Styled_components]]
 - создать отдельный файл со стайлами 
-
 
 ---
 
