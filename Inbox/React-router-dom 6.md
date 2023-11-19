@@ -58,8 +58,14 @@ Tags: #progr
 `<Route path={'/page/:id'} element={<Page/>}/>`
 - Передача в **props** компоненты Pages
 `<Route path={'/page/:id'} element={<Page pages={dataState.pages}/>}/>`
-- Использование хука **useParams ()**
+- Использование хука **useParams ()** в компоненте Page
 `const params = useParams()`
+- Отрисовка контента с помощью map 
+```
+{pages[Number(params.id)].heading}  
+{pages[Number(params.id)].about}
+```
+
 
 ---
 ### БИЖУТЕРИЯ
