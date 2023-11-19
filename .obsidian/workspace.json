@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.1705322265625
+    "width": 302.1705322265625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,6 +179,7 @@
   },
   "active": "5a8c29a04e1d29bb",
   "lastOpenFiles": [
+    "Files/Pasted image 20231119203754.png",
     "Files/Pasted image 20231119180809.png",
     "Files/Pasted image 20231119180750.png",
     "Files/Pasted image 20231119180719.png",
@@ -197,7 +199,6 @@
     "Files/Pasted image 20231119132608.png",
     "📒Daily/2023-11-18.md",
     "Inbox/Storybook.md",
-    "Files/Pasted image 20231116234718.png",
     "📒Daily/2023-11-16.md",
     "📒Daily/2023-11-14.md",
     "📒Daily/2023-11-15.md",
