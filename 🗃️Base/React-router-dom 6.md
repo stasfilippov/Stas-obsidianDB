@@ -146,6 +146,13 @@ return <div>
 </div>
 ```
 
+## Новый синтаксис
+1. Создание папки в src - **Routes**
+2. В ней создается файл **router.tsx**
+3. ![[Pasted image 20231123001324.png]]
+4. 
+
+
 ---
 ### Zero-Links
 [[00 React]]
