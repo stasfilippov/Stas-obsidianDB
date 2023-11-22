@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.1705322265625,
-    "collapsed": true
+    "width": 302.1705322265625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,6 +178,8 @@
   },
   "active": "5a8c29a04e1d29bb",
   "lastOpenFiles": [
+    "🗃️Base/Мутация в JS.md",
+    "Inbox/Иммутабельность.md",
     "Files/Pasted image 20231119203754.png",
     "Files/Pasted image 20231119180809.png",
     "Files/Pasted image 20231119180750.png",
@@ -186,8 +187,6 @@
     "Files/Pasted image 20231119180704.png",
     "Files/Pasted image 20231119180657.png",
     "Files/Pasted image 20231119175147.png",
-    "Inbox/Иммутабельность.md",
-    "🗃️Base/Мутация в JS.md",
     "🗃️Base/Styled_components.md",
     "🗃️Base/React-router-dom 6.md",
     "Inbox/Input-Controlled.md",
@@ -196,7 +195,6 @@
     "Files/Pasted image 20231119140220.png",
     "Inbox/Input-Uncontrolled.md",
     "Files/Pasted image 20231119135056.png",
-    "Files/Pasted image 20231119132608.png",
     "📒Daily/2023-11-18.md",
     "Inbox/Storybook.md",
     "📒Daily/2023-11-16.md",
