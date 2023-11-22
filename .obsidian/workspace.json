@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "styled",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
