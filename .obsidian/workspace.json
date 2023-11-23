@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️Base/React-router-dom 6.md",
+                "file": "📒Daily/2023-11-23.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️Base/React-router-dom 6.md",
+                "file": "📒Daily/2023-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️Base/React-router-dom 6.md",
+                "file": "📒Daily/2023-11-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️Base/React-router-dom 6.md"
+                "file": "📒Daily/2023-11-23.md"
               }
             }
           },
@@ -180,6 +180,10 @@
   },
   "active": "6ace7431c9982dac",
   "lastOpenFiles": [
+    "Files/Pasted image 20231123191543.png",
+    "🗃️Base/React-router-dom 6.md",
+    "📒Daily/2023-11-23.md",
+    "Files/Pasted image 20231123190630.png",
     "Files/Pasted image 20231123190002.png",
     "Files/Pasted image 20231123184745.png",
     "Files/Pasted image 20231123183905.png",
@@ -193,10 +197,7 @@
     "Inbox/Иммутабельность.md",
     "🗃️Base/Мутация в JS.md",
     "Files/Pasted image 20231119203754.png",
-    "Files/Pasted image 20231119180809.png",
-    "Files/Pasted image 20231119180750.png",
     "🗃️Base/Styled_components.md",
-    "🗃️Base/React-router-dom 6.md",
     "Inbox/Input-Controlled.md",
     "Inbox/FLUX - круговорот.md",
     "Inbox/Input-Uncontrolled.md",
@@ -214,7 +215,6 @@
     "2022-06-11.md",
     "2022-W23.md",
     "Вторая заметка.md",
-    "Новая заметка.md",
-    "БАЗА ЗНАНИЙ/Здоровье/Гормоны/Как стресс нас убивает.md"
+    "Новая заметка.md"
   ]
 }
