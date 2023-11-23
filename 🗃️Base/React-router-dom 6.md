@@ -150,7 +150,10 @@ return <div>
 1. Создание папки в src - **Routes**
 2. В ней создается файл **router.tsx**
 3. ![[Pasted image 20231123001324.png]]
-4. 
+4. В **index.tsx** 
+![[Pasted image 20231123174305.png]]
+5. В App.tsx - добавление чилдов через тег <Outlet/>
+![[Pasted image 20231123174604.png]]
 
 
 ---
