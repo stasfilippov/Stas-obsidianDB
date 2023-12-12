@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a53a4e1d5d648b93",
+        "id": "100cdc8b970a5768",
         "type": "tabs",
         "children": [
           {
-            "id": "61df8dd412c4c506",
+            "id": "70f8298a0a82cd76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📒Daily/2023-11-23.md",
+                "file": "Inbox/Как проверить оригинальность Samsung s23 ultra.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "12d5ccd2fe7d7f6c",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📒Daily/2023-11-23.md",
+                "file": "Inbox/Как проверить оригинальность Samsung s23 ultra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📒Daily/2023-11-23.md",
+                "file": "Inbox/Как проверить оригинальность Samsung s23 ultra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📒Daily/2023-11-23.md"
+                "file": "Inbox/Как проверить оригинальность Samsung s23 ultra.md"
               }
             }
           },
@@ -176,9 +177,14 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "61df8dd412c4c506",
+  "active": "70f8298a0a82cd76",
   "lastOpenFiles": [
+    "Readwise/Articles/State A Component's Memory.md",
+    "Readwise/Articles/Responding to Events.md",
+    "Readwise/Articles/Rendering Lists – React.md",
+    "Readwise/Articles/Passing Props to a Component – React.md",
     "📒Daily/2023-11-23.md",
+    "Inbox/Как проверить оригинальность Samsung s23 ultra.md",
     "Files/Pasted image 20231123191543.png",
     "🗃️Base/React-router-dom 6.md",
     "Files/Pasted image 20231123190630.png",
@@ -208,10 +214,6 @@
     "Обработано/Работа в обсидиан.md",
     "Обработано/Принципы ведения базы.md",
     "Обработано/Заголовки.md",
-    "Без названия.md",
-    "2022-06-11.md",
-    "2022-W23.md",
-    "Вторая заметка.md",
-    "Новая заметка.md"
+    "Без названия.md"
   ]
 }
