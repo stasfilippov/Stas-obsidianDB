@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "12d5ccd2fe7d7f6c",
@@ -177,7 +176,7 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "70f8298a0a82cd76",
+  "active": "0fe72f3b25ce9ff7",
   "lastOpenFiles": [
     "Readwise/Articles/State A Component's Memory.md",
     "Readwise/Articles/Responding to Events.md",

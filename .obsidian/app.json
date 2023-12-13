@@ -3,6 +3,7 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Files",
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
