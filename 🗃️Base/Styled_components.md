@@ -174,6 +174,18 @@ root.render(
 - настройки кнопки 
 - breakpoints
 
+### Использование JS 
+```javascript
+const Button = styled.button(
+  ({ theme, nature }) => css`
+    color: ${theme.colors.mainColors[nature].color};
+    background-color: ${theme.colors.mainColors[nature].background};
+  `
+)
+```
+
+
+
 
 ---
 ### Zero-Links

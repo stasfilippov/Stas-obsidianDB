@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Storybook.md",
+                "file": "🗃️Base/Styled_components.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Storybook.md",
+                "file": "🗃️Base/Styled_components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Storybook.md",
+                "file": "🗃️Base/Styled_components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Storybook.md"
+                "file": "🗃️Base/Styled_components.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   },
   "active": "a5a878235c987953",
   "lastOpenFiles": [
+    "Inbox/Storybook.md",
     "📒Daily/2023-12-20.md",
     "README.md",
     "Inbox/Как проверить оригинальность Samsung s23 ultra.md",
@@ -208,7 +209,6 @@
     "Inbox/FLUX - круговорот.md",
     "Inbox/Input-Uncontrolled.md",
     "📒Daily/2023-11-18.md",
-    "Inbox/Storybook.md",
     "📒Daily/2023-11-16.md",
     "📒Daily/2023-11-14.md",
     "📒Daily/2023-11-15.md",
