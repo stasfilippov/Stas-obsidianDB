@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "100cdc8b970a5768",
+        "id": "ba09f6f707ccf8dc",
         "type": "tabs",
         "children": [
           {
-            "id": "70f8298a0a82cd76",
+            "id": "a5a878235c987953",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Как проверить оригинальность Samsung s23 ultra.md",
+                "file": "Inbox/Storybook.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stor",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +74,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "12d5ccd2fe7d7f6c",
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Как проверить оригинальность Samsung s23 ultra.md",
+                "file": "Inbox/Storybook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Как проверить оригинальность Samsung s23 ultra.md",
+                "file": "Inbox/Storybook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Как проверить оригинальность Samsung s23 ultra.md"
+                "file": "Inbox/Storybook.md"
               }
             }
           },
@@ -176,14 +178,16 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "0fe72f3b25ce9ff7",
+  "active": "a5a878235c987953",
   "lastOpenFiles": [
+    "📒Daily/2023-12-20.md",
+    "README.md",
+    "Inbox/Как проверить оригинальность Samsung s23 ultra.md",
     "Readwise/Articles/State A Component's Memory.md",
     "Readwise/Articles/Responding to Events.md",
     "Readwise/Articles/Rendering Lists – React.md",
     "Readwise/Articles/Passing Props to a Component – React.md",
     "📒Daily/2023-11-23.md",
-    "Inbox/Как проверить оригинальность Samsung s23 ultra.md",
     "Files/Pasted image 20231123191543.png",
     "🗃️Base/React-router-dom 6.md",
     "Files/Pasted image 20231123190630.png",
@@ -211,8 +215,6 @@
     "conflict-files-obsidian-git.md",
     "_Resours/Шаблоны/Шаблон 1.md",
     "Обработано/Работа в обсидиан.md",
-    "Обработано/Принципы ведения базы.md",
-    "Обработано/Заголовки.md",
-    "Без названия.md"
+    "Обработано/Принципы ведения базы.md"
   ]
 }
