@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b8bb9a30d9e908ac",
+        "id": "e5ae2a94ced32e68",
         "type": "tabs",
         "children": [
           {
-            "id": "9814c8afee63725c",
+            "id": "0a3466c425856fab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/UseReducer.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "12d5ccd2fe7d7f6c",
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/UseReducer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/UseReducer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/UseReducer.md"
+              }
             }
           },
           {
@@ -167,8 +177,10 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "0fe72f3b25ce9ff7",
+  "active": "0a3466c425856fab",
   "lastOpenFiles": [
+    "Inbox/UseReducer.md",
+    "Без названия",
     "🗃️Base/Styled_components.md",
     "Inbox/Storybook.md",
     "📒Daily/2023-12-20.md",
@@ -203,7 +215,6 @@
     "📒Daily/2023-11-15.md",
     "conflict-files-obsidian-git.md",
     "_Resours/Шаблоны/Шаблон 1.md",
-    "Обработано/Работа в обсидиан.md",
-    "Обработано/Принципы ведения базы.md"
+    "Обработано/Работа в обсидиан.md"
   ]
 }
