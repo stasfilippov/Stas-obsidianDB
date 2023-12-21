@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stor",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,12 +69,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 213.5
   },
   "right": {
     "id": "12d5ccd2fe7d7f6c",
@@ -168,7 +167,7 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "9814c8afee63725c",
+  "active": "0fe72f3b25ce9ff7",
   "lastOpenFiles": [
     "🗃️Base/Styled_components.md",
     "Inbox/Storybook.md",
