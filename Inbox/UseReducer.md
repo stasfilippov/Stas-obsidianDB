@@ -12,6 +12,10 @@ Tags: #progr
 
 ![[Pasted image 20231221224042.png]]
 
+- как правило **reducer** должен получит несколько **action**
+
+
+
 ---
 ### Zero-Links
 [[00 React]]
