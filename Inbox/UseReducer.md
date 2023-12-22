@@ -13,7 +13,12 @@ Tags: #progr
 ![[Pasted image 20231221224042.png]]
 
 - как правило **reducer** должен получит несколько **action**
-
+- как правило - нельзя **диспатчить** action, который **не ожидает** reducer 
+- **ЖЕЛАТЕЛЬНО**  - по default 
+```js
+default:  
+  throw new Error("Bad action type");
+```
 
 
 ---
