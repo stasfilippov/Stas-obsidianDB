@@ -14,6 +14,20 @@ Tags: #progr
 - А если используется react.memo - он проверяет props, если пользователь передал те же props, то не будет ничего перерисовывать
 - ![[Pasted image 20231224213445.png]]
 - ![[Pasted image 20231224120818.png]]
+```ts
+const UsersSecret = (props: { users: Array<string> }) => {  
+  console.log("USERS");  
+  return (  
+    <div>  
+      {props.users.map((u, i) => (  
+        <div key={i}>{u}</div>  
+      ))}    </div>  
+  );};  
+  
+const Users = React.memo(UsersSecret);
+```
+
+
 ---
 ### Zero-Links
 [[00 React]]
