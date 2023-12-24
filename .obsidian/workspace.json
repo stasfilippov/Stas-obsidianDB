@@ -4,23 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "e5ae2a94ced32e68",
+        "id": "012c731990a63245",
         "type": "tabs",
         "children": [
           {
-            "id": "0a3466c425856fab",
+            "id": "4d71a0a27ed3c0f1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "66cc7feef8b4e0a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/UseReducer.md",
+                "file": "Inbox/React Memo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/UseReducer.md",
+                "file": "Inbox/React Memo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/UseReducer.md",
+                "file": "Inbox/React Memo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/UseReducer.md"
+                "file": "Inbox/React Memo.md"
               }
             }
           },
@@ -177,10 +186,14 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "0a3466c425856fab",
+  "active": "66cc7feef8b4e0a4",
   "lastOpenFiles": [
-    "Files/Pasted image 20231221224042.png",
+    "Files/Pasted image 20231224120818.png",
+    "Files/Pasted image 20231224120647.png",
+    "Inbox/Без названия 1.md",
+    "Inbox/React Memo.md",
     "Inbox/UseReducer.md",
+    "Files/Pasted image 20231221224042.png",
     "Без названия",
     "🗃️Base/Styled_components.md",
     "Inbox/Storybook.md",
@@ -201,8 +214,6 @@
     "Files/Pasted image 20231123183453.png",
     "Files/Pasted image 20231123182408.png",
     "Files/Pasted image 20231123174604.png",
-    "Files/Pasted image 20231123174305.png",
-    "Files/Pasted image 20231123001324.png",
     "📒Daily/2023-11-22.md",
     "Inbox/Без названия.md",
     "Inbox/Иммутабельность.md",
@@ -213,8 +224,6 @@
     "📒Daily/2023-11-18.md",
     "📒Daily/2023-11-16.md",
     "📒Daily/2023-11-14.md",
-    "📒Daily/2023-11-15.md",
-    "conflict-files-obsidian-git.md",
-    "_Resours/Шаблоны/Шаблон 1.md"
+    "📒Daily/2023-11-15.md"
   ]
 }

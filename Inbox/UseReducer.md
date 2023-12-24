@@ -22,7 +22,33 @@ default:
 
 
 ### Unit tests for reducer
-
+```js
+test("reducer should be false", () => {  
+  //data  
+  const state: StateType = {  
+    collapsed: true,  
+  };  
+  //action  
+  const newState = reducer(state, { type: TOGGLE_COLLAPSED });  
+  
+  //expect  
+  expect(newState.collapsed).toBe(false);  
+});  
+  
+test("reducer should be error", () => {  
+  //data  
+  const state: StateType = {  
+    collapsed: true,  
+  };  
+  //action  
+  const newState = reducer(state, { type: TOGGLE_COLLAPSED });  
+  
+  //expect  
+  expect(() => {  
+    reducer(state, { type: "TDSADSd" });  
+  }).toThrowError();  
+});
+```
 
 ---
 ### Zero-Links
