@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "66cc7feef8b4e0a4",
+            "id": "741d36c5ef665f7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/React Memo.md",
+                "file": "Inbox/Без названия 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/React Memo.md",
+                "file": "Inbox/Без названия 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/React Memo.md",
+                "file": "Inbox/Без названия 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/React Memo.md"
+                "file": "Inbox/Без названия 2.md"
               }
             }
           },
@@ -186,13 +186,15 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "66cc7feef8b4e0a4",
+  "active": "741d36c5ef665f7a",
   "lastOpenFiles": [
+    "Inbox/Вопросы для собеса.md",
+    "Inbox/Без названия 2.md",
+    "Inbox/React Memo.md",
     "Files/Pasted image 20231224213445.png",
     "Files/Pasted image 20231224120818.png",
     "Files/Pasted image 20231224120647.png",
     "Inbox/Без названия 1.md",
-    "Inbox/React Memo.md",
     "Inbox/UseReducer.md",
     "Files/Pasted image 20231221224042.png",
     "Без названия",
@@ -213,7 +215,6 @@
     "Files/Pasted image 20231123184745.png",
     "Files/Pasted image 20231123183905.png",
     "Files/Pasted image 20231123183453.png",
-    "Files/Pasted image 20231123182408.png",
     "📒Daily/2023-11-22.md",
     "Inbox/Без названия.md",
     "Inbox/Иммутабельность.md",
@@ -223,7 +224,6 @@
     "Inbox/Input-Uncontrolled.md",
     "📒Daily/2023-11-18.md",
     "📒Daily/2023-11-16.md",
-    "📒Daily/2023-11-14.md",
-    "📒Daily/2023-11-15.md"
+    "📒Daily/2023-11-14.md"
   ]
 }
