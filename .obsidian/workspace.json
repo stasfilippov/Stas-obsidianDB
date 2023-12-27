@@ -8,28 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d71a0a27ed3c0f1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "741d36c5ef665f7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Без названия 2.md",
+                "file": "Inbox/Во что Babel превращает JSX.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Без названия 2.md",
+                "file": "Inbox/Во что Babel превращает JSX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Без названия 2.md",
+                "file": "Inbox/Во что Babel превращает JSX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Без названия 2.md"
+                "file": "Inbox/Во что Babel превращает JSX.md"
               }
             }
           },
@@ -188,8 +179,8 @@
   },
   "active": "741d36c5ef665f7a",
   "lastOpenFiles": [
+    "Inbox/Во что Babel превращает JSX.md",
     "Inbox/Вопросы для собеса.md",
-    "Inbox/Без названия 2.md",
     "Inbox/React Memo.md",
     "Files/Pasted image 20231224213445.png",
     "Files/Pasted image 20231224120818.png",
