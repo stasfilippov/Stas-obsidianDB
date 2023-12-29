@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "012c731990a63245",
+        "id": "574ba998471c6bb8",
         "type": "tabs",
         "children": [
           {
-            "id": "741d36c5ef665f7a",
+            "id": "4af12c15015a8dec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Во что Babel превращает JSX.md",
-                "mode": "source",
+                "file": "Inbox/UseReducer.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "reducer",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Во что Babel превращает JSX.md",
+                "file": "Inbox/UseReducer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Во что Babel превращает JSX.md",
+                "file": "Inbox/UseReducer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Во что Babel превращает JSX.md"
+                "file": "Inbox/UseReducer.md"
               }
             }
           },
@@ -177,8 +178,10 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "741d36c5ef665f7a",
+  "active": "4af12c15015a8dec",
   "lastOpenFiles": [
+    "Inbox/Unit Tests.md",
+    "Inbox/UseReducer.md",
     "Inbox/Во что Babel превращает JSX.md",
     "Inbox/Вопросы для собеса.md",
     "Inbox/React Memo.md",
@@ -186,7 +189,6 @@
     "Files/Pasted image 20231224120818.png",
     "Files/Pasted image 20231224120647.png",
     "Inbox/Без названия 1.md",
-    "Inbox/UseReducer.md",
     "Files/Pasted image 20231221224042.png",
     "Без названия",
     "🗃️Base/Styled_components.md",
@@ -214,7 +216,6 @@
     "Inbox/FLUX - круговорот.md",
     "Inbox/Input-Uncontrolled.md",
     "📒Daily/2023-11-18.md",
-    "📒Daily/2023-11-16.md",
-    "📒Daily/2023-11-14.md"
+    "📒Daily/2023-11-16.md"
   ]
 }
