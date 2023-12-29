@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📒Daily/2023-12-29.md",
+                "file": "Inbox/LocarStorage.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mem",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📒Daily/2023-12-29.md",
+                "file": "Inbox/LocarStorage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📒Daily/2023-12-29.md",
+                "file": "Inbox/LocarStorage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📒Daily/2023-12-29.md"
+                "file": "Inbox/LocarStorage.md"
               }
             }
           },
@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,9 +180,10 @@
   },
   "active": "f38f6a0a9506eaf9",
   "lastOpenFiles": [
+    "📒Daily/2023-12-29.md",
+    "Inbox/LocarStorage.md",
     "Inbox/useMemo.md",
     "Inbox/React Memo.md",
-    "📒Daily/2023-12-29.md",
     "Files/Pasted image 20231229192302.png",
     "Readwise/Articles/Your First Component – React.md",
     "Readwise/Articles/State A Component's Memory.md",
@@ -214,7 +216,6 @@
     "Inbox/Без названия.md",
     "Inbox/Иммутабельность.md",
     "🗃️Base/Мутация в JS.md",
-    "Inbox/Input-Controlled.md",
-    "Inbox/FLUX - круговорот.md"
+    "Inbox/Input-Controlled.md"
   ]
 }
