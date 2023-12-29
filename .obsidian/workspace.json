@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📒Daily/2023-12-29.md",
+                "file": "Inbox/React Memo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mem",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📒Daily/2023-12-29.md",
+                "file": "Inbox/React Memo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📒Daily/2023-12-29.md",
+                "file": "Inbox/React Memo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📒Daily/2023-12-29.md"
+                "file": "Inbox/React Memo.md"
               }
             }
           },
@@ -161,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,15 +179,16 @@
   },
   "active": "f38f6a0a9506eaf9",
   "lastOpenFiles": [
-    "Files/Pasted image 20231229192302.png",
+    "Inbox/useMemo.md",
+    "Inbox/React Memo.md",
     "📒Daily/2023-12-29.md",
+    "Files/Pasted image 20231229192302.png",
     "Readwise/Articles/Your First Component – React.md",
     "Readwise/Articles/State A Component's Memory.md",
     "Inbox/UseReducer.md",
     "Inbox/Unit Tests.md",
     "Inbox/Во что Babel превращает JSX.md",
     "Inbox/Вопросы для собеса.md",
-    "Inbox/React Memo.md",
     "Files/Pasted image 20231224213445.png",
     "Files/Pasted image 20231224120818.png",
     "Files/Pasted image 20231224120647.png",
@@ -209,7 +210,6 @@
     "Files/Pasted image 20231123190002.png",
     "Files/Pasted image 20231123184745.png",
     "Files/Pasted image 20231123183905.png",
-    "Files/Pasted image 20231123183453.png",
     "📒Daily/2023-11-22.md",
     "Inbox/Без названия.md",
     "Inbox/Иммутабельность.md",

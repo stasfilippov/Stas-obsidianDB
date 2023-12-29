@@ -34,3 +34,4 @@ const Users = React.memo(UsersSecret);
 
 ---
 ### Links
+[[useMemo]]
