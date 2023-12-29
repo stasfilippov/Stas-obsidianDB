@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "574ba998471c6bb8",
+        "id": "e6d0228da3cd6dbd",
         "type": "tabs",
         "children": [
           {
-            "id": "4af12c15015a8dec",
+            "id": "f38f6a0a9506eaf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/UseReducer.md",
+                "file": "📒Daily/2023-12-29.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reducer",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/UseReducer.md",
+                "file": "📒Daily/2023-12-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/UseReducer.md",
+                "file": "📒Daily/2023-12-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/UseReducer.md"
+                "file": "📒Daily/2023-12-29.md"
               }
             }
           },
@@ -178,10 +177,13 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "4af12c15015a8dec",
+  "active": "f38f6a0a9506eaf9",
   "lastOpenFiles": [
-    "Inbox/Unit Tests.md",
+    "📒Daily/2023-12-29.md",
+    "Readwise/Articles/Your First Component – React.md",
+    "Readwise/Articles/State A Component's Memory.md",
     "Inbox/UseReducer.md",
+    "Inbox/Unit Tests.md",
     "Inbox/Во что Babel превращает JSX.md",
     "Inbox/Вопросы для собеса.md",
     "Inbox/React Memo.md",
@@ -196,7 +198,6 @@
     "📒Daily/2023-12-20.md",
     "README.md",
     "Inbox/Как проверить оригинальность Samsung s23 ultra.md",
-    "Readwise/Articles/State A Component's Memory.md",
     "Readwise/Articles/Responding to Events.md",
     "Readwise/Articles/Rendering Lists – React.md",
     "Readwise/Articles/Passing Props to a Component – React.md",
@@ -214,8 +215,6 @@
     "🗃️Base/Мутация в JS.md",
     "Inbox/Input-Controlled.md",
     "Inbox/FLUX - круговорот.md",
-    "Inbox/Input-Uncontrolled.md",
-    "📒Daily/2023-11-18.md",
-    "📒Daily/2023-11-16.md"
+    "Inbox/Input-Uncontrolled.md"
   ]
 }
