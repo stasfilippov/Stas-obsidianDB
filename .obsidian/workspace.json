@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e6d0228da3cd6dbd",
+        "id": "f41ffb325580da8a",
         "type": "tabs",
         "children": [
           {
-            "id": "f38f6a0a9506eaf9",
+            "id": "a049ee532880c863",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📒Daily/2023-12-29.md",
+                "file": "📒Daily/2023-12-30.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📒Daily/2023-12-29.md",
+                "file": "📒Daily/2023-12-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📒Daily/2023-12-29.md",
+                "file": "📒Daily/2023-12-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📒Daily/2023-12-29.md"
+                "file": "📒Daily/2023-12-30.md"
               }
             }
           },
@@ -154,7 +154,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -178,10 +180,11 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "f38f6a0a9506eaf9",
+  "active": "a049ee532880c863",
   "lastOpenFiles": [
-    "Inbox/LocarStorage.md",
+    "📒Daily/2023-12-30.md",
     "📒Daily/2023-12-29.md",
+    "Inbox/LocarStorage.md",
     "Inbox/useMemo.md",
     "Inbox/React Memo.md",
     "Files/Pasted image 20231229192302.png",
@@ -215,7 +218,6 @@
     "📒Daily/2023-11-22.md",
     "Inbox/Без названия.md",
     "Inbox/Иммутабельность.md",
-    "🗃️Base/Мутация в JS.md",
-    "Inbox/Input-Controlled.md"
+    "🗃️Base/Мутация в JS.md"
   ]
 }
