@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/LocarStorage.md",
+                "file": "📒Daily/2023-12-29.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/LocarStorage.md",
+                "file": "📒Daily/2023-12-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/LocarStorage.md",
+                "file": "📒Daily/2023-12-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/LocarStorage.md"
+                "file": "📒Daily/2023-12-29.md"
               }
             }
           },
@@ -180,8 +180,8 @@
   },
   "active": "f38f6a0a9506eaf9",
   "lastOpenFiles": [
-    "📒Daily/2023-12-29.md",
     "Inbox/LocarStorage.md",
+    "📒Daily/2023-12-29.md",
     "Inbox/useMemo.md",
     "Inbox/React Memo.md",
     "Files/Pasted image 20231229192302.png",
