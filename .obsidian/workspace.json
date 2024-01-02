@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📒Daily/2023-12-30.md",
+                "file": "📒Daily/2023-12-29.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "12d5ccd2fe7d7f6c",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📒Daily/2023-12-30.md",
+                "file": "📒Daily/2023-12-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📒Daily/2023-12-30.md",
+                "file": "📒Daily/2023-12-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📒Daily/2023-12-30.md"
+                "file": "📒Daily/2023-12-29.md"
               }
             }
           },
@@ -182,15 +181,15 @@
   },
   "active": "a049ee532880c863",
   "lastOpenFiles": [
-    "📒Daily/2023-12-30.md",
+    "Files/Pasted image 20231229192302.png",
     "📒Daily/2023-12-29.md",
+    "Inbox/UseReducer.md",
+    "📒Daily/2023-12-30.md",
     "Inbox/LocarStorage.md",
     "Inbox/useMemo.md",
     "Inbox/React Memo.md",
-    "Files/Pasted image 20231229192302.png",
     "Readwise/Articles/Your First Component – React.md",
     "Readwise/Articles/State A Component's Memory.md",
-    "Inbox/UseReducer.md",
     "Inbox/Unit Tests.md",
     "Inbox/Во что Babel превращает JSX.md",
     "Inbox/Вопросы для собеса.md",
@@ -217,7 +216,6 @@
     "Files/Pasted image 20231123183905.png",
     "📒Daily/2023-11-22.md",
     "Inbox/Без названия.md",
-    "Inbox/Иммутабельность.md",
-    "🗃️Base/Мутация в JS.md"
+    "Inbox/Иммутабельность.md"
   ]
 }
