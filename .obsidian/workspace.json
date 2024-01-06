@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 200
   },
   "right": {
     "id": "12d5ccd2fe7d7f6c",
@@ -162,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 204.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,9 +179,9 @@
   },
   "active": "616649eb714a44d5",
   "lastOpenFiles": [
-    "Inbox/useMemo.md",
     "Inbox/React Memo.md",
     "Inbox/useCallback.md",
+    "Inbox/useMemo.md",
     "🗃️Base/00 React.md",
     "Inbox/UseReducer.md",
     "Inbox/useState.md",
