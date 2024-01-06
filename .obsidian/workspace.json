@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "useStat",
+                "query": "00",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,9 +180,10 @@
   },
   "active": "0bca31875d470c79",
   "lastOpenFiles": [
+    "Inbox/UseReducer.md",
+    "🗃️Base/00 React.md",
     "Inbox/useState.md",
     "Inbox/useMemo.md",
-    "🗃️Base/00 React.md",
     "Readwise/Articles/State A Component's Memory.md",
     "📒Daily/2023-12-29.md",
     "Inbox/React Memo.md",
@@ -210,7 +211,6 @@
     "Inbox/Во что Babel превращает JSX.md",
     "🗃️Base/Create React App (CRA).md",
     "Inbox/Unit Tests.md",
-    "Inbox/UseReducer.md",
     "Inbox/Без названия 3.md",
     "Files/Pasted image 20231224120647.png",
     "Files/Pasted image 20231221224042.png",
