@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fab31b7b15bae15b",
+        "id": "20c0a3a9616c9207",
         "type": "tabs",
         "children": [
           {
-            "id": "838bff43c6e6641b",
+            "id": "0bca31875d470c79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "🗃️Base/00 React.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "047294c8bf3b0528",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/TDD.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "react",
+                "query": "useStat",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 382.5
   },
   "right": {
     "id": "12d5ccd2fe7d7f6c",
@@ -176,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 441.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,44 +178,44 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "838bff43c6e6641b",
+  "active": "0bca31875d470c79",
   "lastOpenFiles": [
-    "🗃️Base/Create React App (CRA).md",
-    "Inbox/Unit Tests.md",
-    "Inbox/UseReducer.md",
-    "Inbox/TDD.md",
-    "Inbox/Без названия 3.md",
-    "Inbox/Без названия 2.md",
-    "📒Daily/2023-12-30.md",
-    "📒Daily/2023-06-13.md",
+    "Inbox/useState.md",
+    "Inbox/useMemo.md",
+    "🗃️Base/00 React.md",
+    "Readwise/Articles/State A Component's Memory.md",
+    "📒Daily/2023-12-29.md",
+    "Inbox/React Memo.md",
+    "Files/Pasted image 20231224120818.png",
+    "Files/Pasted image 20231224213445.png",
+    "Files/Pasted image 20231229192302.png",
+    "Files/image.jpg",
+    "Files/Снимок экрана 2023-04-04 в 07.09.53.png",
+    "Files/5d6aa070-3a20-4e01-9363-553f1fe408b3_6.png",
+    "📒Daily/2023-10-14.md",
+    "📒Daily/2023-10-16.md",
+    "📒Daily/2023-11-14.md",
+    "📒Daily/2023-11-15.md",
     "📒Daily/2023-11-16.md",
     "📒Daily/2023-11-18.md",
     "📒Daily/2023-11-22.md",
     "📒Daily/2023-11-23.md",
     "📒Daily/2023-12-20.md",
-    "📒Daily/2023-12-29.md",
-    "🗃️Base/Атрибут .attr.md",
-    "🗃️Base/Styled_components.md",
-    "🗃️Base/Props.md",
-    "Files/Pasted image 20231229192302.png",
-    "Inbox/LocarStorage.md",
-    "Inbox/useMemo.md",
-    "Inbox/React Memo.md",
-    "Readwise/Articles/Your First Component – React.md",
-    "Readwise/Articles/State A Component's Memory.md",
+    "📒Daily/2023-12-30.md",
+    "📒Daily/2023-10-10.md",
+    "📒Daily/2023-10-09.md",
+    "📒Daily/2023-06-13.md",
+    "Inbox/TDD.md",
+    "Inbox/VDOM.md",
     "Inbox/Во что Babel превращает JSX.md",
-    "Inbox/Вопросы для собеса.md",
-    "Files/Pasted image 20231224213445.png",
-    "Files/Pasted image 20231224120818.png",
+    "🗃️Base/Create React App (CRA).md",
+    "Inbox/Unit Tests.md",
+    "Inbox/UseReducer.md",
+    "Inbox/Без названия 3.md",
     "Files/Pasted image 20231224120647.png",
-    "Inbox/Без названия 1.md",
     "Files/Pasted image 20231221224042.png",
     "Без названия",
-    "Inbox/Storybook.md",
     "Files/Pasted image 20231123191543.png",
-    "Files/Pasted image 20231123190630.png",
-    "Files/Pasted image 20231123190002.png",
-    "Files/Pasted image 20231123184745.png",
-    "Files/Pasted image 20231123183905.png"
+    "Files/Pasted image 20231123190630.png"
   ]
 }

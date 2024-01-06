@@ -8,13 +8,14 @@
   "lastSavedStatusID": 12171657,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
-  "booksToRefresh": [],
+  "booksToRefresh": [
+    "34964811"
+  ],
   "booksIDsMap": {
     "Readwise/Articles/Your First Component – React.md": "34068806",
     "Readwise/Articles/Passing Props to a Component – React.md": "34908667",
     "Readwise/Articles/Rendering Lists – React.md": "34964813",
-    "Readwise/Articles/Responding to Events.md": "34964812",
-    "Readwise/Articles/State A Component's Memory.md": "34964811"
+    "Readwise/Articles/Responding to Events.md": "34964812"
   },
   "reimportShowConfirmation": true
 }
