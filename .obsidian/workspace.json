@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️Base/Props.md",
+                "file": "🗃️Base/Атрибут .attr.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️Base/Props.md",
+                "file": "🗃️Base/Атрибут .attr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️Base/Props.md",
+                "file": "🗃️Base/Атрибут .attr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️Base/Props.md"
+                "file": "🗃️Base/Атрибут .attr.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   "active": "a049ee532880c863",
   "lastOpenFiles": [
     "🗃️Base/Styled_components.md",
-    "🗃️Base/Атрибут .attr.md",
     "🗃️Base/Props.md",
+    "🗃️Base/Атрибут .attr.md",
     "📒Daily/2023-12-29.md",
     "Files/Pasted image 20231229192302.png",
     "Inbox/UseReducer.md",
