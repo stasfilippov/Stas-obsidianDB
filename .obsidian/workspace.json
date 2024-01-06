@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 204.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +178,7 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "616649eb714a44d5",
+  "active": "d87adbd809a186ca",
   "lastOpenFiles": [
     "Inbox/React Memo.md",
     "Inbox/useCallback.md",
