@@ -15,14 +15,33 @@ Tags: #progr
 
 ![[Pasted image 20231221224042.png]]
 
+
 - как правило **reducer** должен получит несколько **action**
 - как правило - нельзя **диспатчить** action, который **не ожидает** reducer 
-- **ЖЕЛАТЕЛЬНО**  - по default 
+### Action 
+- это объект
+- создаем за счет **функций фабрик - Action Creator**
+```JS
+export const changeTodolistTitleAC = (id: string, title: string) => {  
+    return {type: 'CHANGE-TODOLIST-TITLE', payload: {id, title}} as const  
+}
+```
+- обязательно указываем - **as const**
+- проводим типизацию данного **action creator**
+```js
+type ChangeTodolistTitleACType = ReturnType<typeof changeTodolistTitleAC>
+```
+- в дальнейшем при **dispatch** какого-либо action - вызываем данный **action creator**
+
+
+
+
+#### Если пришел не тот action
 ```js
 default:  
   throw new Error("Bad action type");
 ```
-
+- Или желательно возвращать тот же state, который пришел изначально 
 
 ### Unit tests for reducer
 ```js

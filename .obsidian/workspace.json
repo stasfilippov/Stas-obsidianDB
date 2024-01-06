@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/UseReducer.md",
+                "file": "Inbox/Unit Tests.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "047294c8bf3b0528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/TDD.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reducer",
+                "query": "TDD",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "12d5ccd2fe7d7f6c",
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/UseReducer.md",
+                "file": "Inbox/Unit Tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/UseReducer.md",
+                "file": "Inbox/Unit Tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/UseReducer.md"
+                "file": "Inbox/Unit Tests.md"
               }
             }
           },
@@ -181,19 +193,28 @@
   },
   "active": "838bff43c6e6641b",
   "lastOpenFiles": [
+    "Inbox/UseReducer.md",
+    "Inbox/TDD.md",
+    "Inbox/Unit Tests.md",
+    "Inbox/Без названия 3.md",
+    "Inbox/Без названия 2.md",
+    "📒Daily/2023-12-30.md",
+    "📒Daily/2023-06-13.md",
+    "📒Daily/2023-11-16.md",
+    "📒Daily/2023-11-18.md",
+    "📒Daily/2023-11-22.md",
+    "📒Daily/2023-11-23.md",
+    "📒Daily/2023-12-20.md",
+    "📒Daily/2023-12-29.md",
     "🗃️Base/Атрибут .attr.md",
     "🗃️Base/Styled_components.md",
     "🗃️Base/Props.md",
-    "📒Daily/2023-12-29.md",
     "Files/Pasted image 20231229192302.png",
-    "Inbox/UseReducer.md",
-    "📒Daily/2023-12-30.md",
     "Inbox/LocarStorage.md",
     "Inbox/useMemo.md",
     "Inbox/React Memo.md",
     "Readwise/Articles/Your First Component – React.md",
     "Readwise/Articles/State A Component's Memory.md",
-    "Inbox/Unit Tests.md",
     "Inbox/Во что Babel превращает JSX.md",
     "Inbox/Вопросы для собеса.md",
     "Files/Pasted image 20231224213445.png",
@@ -203,20 +224,11 @@
     "Files/Pasted image 20231221224042.png",
     "Без названия",
     "Inbox/Storybook.md",
-    "📒Daily/2023-12-20.md",
     "README.md",
-    "Inbox/Как проверить оригинальность Samsung s23 ultra.md",
-    "Readwise/Articles/Responding to Events.md",
-    "Readwise/Articles/Rendering Lists – React.md",
-    "Readwise/Articles/Passing Props to a Component – React.md",
-    "📒Daily/2023-11-23.md",
     "Files/Pasted image 20231123191543.png",
-    "🗃️Base/React-router-dom 6.md",
     "Files/Pasted image 20231123190630.png",
     "Files/Pasted image 20231123190002.png",
     "Files/Pasted image 20231123184745.png",
-    "Files/Pasted image 20231123183905.png",
-    "📒Daily/2023-11-22.md",
-    "Inbox/Без названия.md"
+    "Files/Pasted image 20231123183905.png"
   ]
 }
