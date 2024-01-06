@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Unit Tests.md",
+                "file": "🗃️Base/00 React.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TDD",
+                "query": "react",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Unit Tests.md",
+                "file": "🗃️Base/00 React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Unit Tests.md",
+                "file": "🗃️Base/00 React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Unit Tests.md"
+                "file": "🗃️Base/00 React.md"
               }
             }
           },
@@ -193,9 +193,10 @@
   },
   "active": "838bff43c6e6641b",
   "lastOpenFiles": [
+    "🗃️Base/Create React App (CRA).md",
+    "Inbox/Unit Tests.md",
     "Inbox/UseReducer.md",
     "Inbox/TDD.md",
-    "Inbox/Unit Tests.md",
     "Inbox/Без названия 3.md",
     "Inbox/Без названия 2.md",
     "📒Daily/2023-12-30.md",
@@ -224,7 +225,6 @@
     "Files/Pasted image 20231221224042.png",
     "Без названия",
     "Inbox/Storybook.md",
-    "README.md",
     "Files/Pasted image 20231123191543.png",
     "Files/Pasted image 20231123190630.png",
     "Files/Pasted image 20231123190002.png",
