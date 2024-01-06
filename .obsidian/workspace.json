@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "20c0a3a9616c9207",
+        "id": "03f2c2dbbc808978",
         "type": "tabs",
         "children": [
           {
-            "id": "0bca31875d470c79",
+            "id": "616649eb714a44d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️Base/00 React.md",
+                "file": "Inbox/useCallback.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️Base/00 React.md",
+                "file": "Inbox/useCallback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️Base/00 React.md",
+                "file": "Inbox/useCallback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️Base/00 React.md"
+                "file": "Inbox/useCallback.md"
               }
             }
           },
@@ -178,15 +177,16 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "0bca31875d470c79",
+  "active": "616649eb714a44d5",
   "lastOpenFiles": [
-    "Inbox/UseReducer.md",
-    "🗃️Base/00 React.md",
-    "Inbox/useState.md",
     "Inbox/useMemo.md",
+    "Inbox/React Memo.md",
+    "Inbox/useCallback.md",
+    "🗃️Base/00 React.md",
+    "Inbox/UseReducer.md",
+    "Inbox/useState.md",
     "Readwise/Articles/State A Component's Memory.md",
     "📒Daily/2023-12-29.md",
-    "Inbox/React Memo.md",
     "Files/Pasted image 20231224120818.png",
     "Files/Pasted image 20231224213445.png",
     "Files/Pasted image 20231229192302.png",
@@ -211,7 +211,6 @@
     "Inbox/Во что Babel превращает JSX.md",
     "🗃️Base/Create React App (CRA).md",
     "Inbox/Unit Tests.md",
-    "Inbox/Без названия 3.md",
     "Files/Pasted image 20231224120647.png",
     "Files/Pasted image 20231221224042.png",
     "Без названия",
